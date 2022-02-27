@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter Tran. I am currently a 3rd Year Software Engineering Student at the University of Queensland.
-I an extremely driven and nothing sounds more exciting than a complex problem to solve.
+I am extremely driven and nothing sounds more exciting than a complex problem to solve.
 
 
 - 📫 You can reach me via:
