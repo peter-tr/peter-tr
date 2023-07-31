@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter Tran. I am currently a 3rd Year Software Engineering Student at the University of Queensland.
+- 👋 Hi, I’m Peter Tran. I am currently a 4th Year Software Engineering Student at the University of Queensland.
 I am extremely driven and nothing sounds more exciting than a complex problem to solve.
 
 
