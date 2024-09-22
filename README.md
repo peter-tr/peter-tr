@@ -14,7 +14,7 @@ When I'm not writing code, you might find me scaling cliffs, hitting the pavemen
 
 ### Let's Connect
 📧 **Email:** [peter2002tran@outlook.com](mailto:peter2002tran@outlook.com)  
-🔗 **LinkedIn:** [Peter K. Tran](https://www.linkedin.com/in/peter-k-tran/)
+🔗 **LinkedIn:** [Peter K. Tran](https://www.linkedin.com/in/peter-k-tran/)  
 🛜 **Website:** [petertran.au](https://petertran.au)
 
 
